@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Welcome to spring boot application</h1>
+<h1>Welcome to spring boot application today</h1>
 </body>
 </html>
